@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "inner universe",
+  "base_artist": "Origa",
+  "createdAt": "2025-12-25T07:02:31.061493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inner Universe",
+      "artist": "Origa",
+      "has_synced": true,
+      "path": "select/01_Inner_Universe_Origa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "inner universe (eco. size)",
+      "artist": "Origa",
+      "has_synced": false,
+      "path": "select/02_inner_universe_(eco._size)_Origa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inner Universe",
+      "artist": "Origa",
+      "has_synced": true,
+      "path": "select/03_Inner_Universe_Origa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "inner universe",
+      "artist": "Origa",
+      "has_synced": true,
+      "path": "select/04_inner_universe_Origa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "inner universe",
+      "artist": "Origa",
+      "has_synced": false,
+      "path": "select/05_inner_universe_Origa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inner Universe (Opening theme)",
+      "artist": "Origa",
+      "has_synced": true,
+      "path": "select/06_Inner_Universe_(Opening_theme)_Origa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Inner Universe",
+      "artist": "Vitek",
+      "has_synced": false,
+      "path": "select/07_Inner_Universe_Vitek.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inner Universe",
+      "artist": "Yoko Kanno/Origa",
+      "has_synced": true,
+      "path": "select/08_Inner_Universe_Yoko_Kanno_Origa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "inner universe",
+      "artist": "Origa",
+      "has_synced": true,
+      "path": "select/09_inner_universe_Origa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "inner universe",
+      "artist": "ORIGA",
+      "has_synced": false,
+      "path": "select/pl_01_inner_universe_ORIGA.txt"
+    }
+  ]
+}
